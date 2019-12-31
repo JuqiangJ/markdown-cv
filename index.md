@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juqiang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Juqiang Chen
+PhD Candidate, 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -22,7 +22,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Pycholinguistics, Speech Science, Data Science, Corpus linguistics.
 
 
 ## Education
